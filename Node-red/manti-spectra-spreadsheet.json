@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "manti-spectra",
+  "private_key_id": "f08305e09f90cece603bc7bdee18a2423ba93379",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8Izs6eTMRFUru\np1s9Zta+D76EdutcZiHgGexz1830u/zeGCPf+Q2VzHxTnNs5+vROP/b0XXHKRf/q\nJLdFdns9tkZ3CAdZW2EuDL9bJHk0SKt2cAVSVCxuASoPQG4oTjHwpJorKiyoYyr5\nxUb0t7edSB9diw35NM57NOHgkpISc9T4H5RPUdZsULJKB5i2CHVYhZxTolrWxOZt\ny5dikM1L8SQUpwum+TtMdDEGbU6TLBpy5i5CBNZ7gxSrQjyNHvsTbKRq/uahLnoh\nJrPabYcdtIMiG11jmYYlN+gYL7jp8DAWFP2p/WCrioXBD5WzyDUUqJJ5NrnaZ2RZ\nl4OQaasJAgMBAAECggEAFgw57W8VKzgX1TKDKIWz/keJj+wAxo4Ig8L9+RBuCDN8\nnYluMNn2u9qgKktMTLXqaf4ogngt9OKxrD6bxLXvGOsSxHHKLLBfCd7AER4L3zLx\n9xoHIaAQKd8Ujv+BuVL6msUrdQoG/D/M4kL6fwTFrZataFC6tTz5QqqOmvsKR8Oc\nScAcaz3SfsWR1NTnoMI4aVFAMeQtk7iZMF+rduoErZ7SVo6WYsMngrHPLIezm0ua\nHh+4iD60gKZDYdGsFAssznMiJqLuzkyck2vUOlJKXpLSkGVqrz36YVjL6ZSMmjpa\nX3Oy5w73sOdF0kOGJCmSwvOMmCpAUkjQuN+uE6zb4QKBgQDoE3hyOBJbVvtGdRsK\no7/bxzDaMJpG/tdB4bKjHc0/IClz1mCAOdR0uCa5fU+lmSThpqRGWXr3Z8FzVyQC\nE+xSs64KKEkzSf0nuGdF6Vv7Hcxh3Y8GBAoVrQ7XXPHIR6eGXHmqm4PySqqRX85v\nhad/QwtwKuiJekSLlVjeDLwoeQKBgQDPiDeypBodpD5X8apM1bLusm7VA8uON8Ty\ndDg5p7x6PfZ4vaP8M+LG7zBhbvABymGSYy7TiQAb+uPWG4KA6fgW8PVfWF1Ws9nJ\niZuzXiOufINSACSKv+j7eqEi2gJHCd2DW5c6u2oqPkbzvK6B0ApUhWoNAfzxKwZj\nnTUj4boTEQKBgQDgB9Ow5yIJXKlKtcd5+OM/5UTqjBqSSHZB2f+ZaS52LrT1ZtBX\nV/wZBKAVVbuqT3EEB9rzMnP7GwTrNAbFnrf2ig+LLKKlSVqBmojPO1uYyYZAPyJP\nG10k2Z/HFKkuvsUgdmrY4DF6lsubdJISpEIyHuWOzU0XUZmT6YMVL9P/eQKBgQDG\nwEH3R8nrEVzThJIAO7i9eQ1D2/qaHTb0q/Ec5lNPDwB46cWex2Ir+u5uoXwhetyv\nAWXbGJ2OLlz8tCPrqib6cZHM2iep3Vx58tu2kDXD6WMqqRBWASzziqG/auI7fmsy\nXgkbKlmmUzZIPy8xCziZcZv7EShZH0djJy+5SXiWwQKBgBvaBok9bfoLK3TuYIYZ\n03tQMhu7rQyKm5yriEKQleSiF2TfD7qZnmfAZmBbihA/5qybbvZUOyBofxKw4Jds\nJUh69W7qf4yXtCAwK3J86yXhNowaXIvbqGMKiBhRQzMaSjA/x2CgwBF9wM4kBfMQ\nWwO8kMQfIuVGXNptuy4nxwBW\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-778@manti-spectra.iam.gserviceaccount.com",
+  "client_id": "101097399916852938523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-778%40manti-spectra.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

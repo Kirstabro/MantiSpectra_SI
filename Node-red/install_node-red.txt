@@ -1,0 +1,8 @@
+npm install -g --unsafe-perm node-red
+npm install -g node-red-dashboard
+npm install -g node-red-contrib-fs
+npm install -g node-red-contrib-open
+npm install -g node-red-contrib-remote
+npm install -g node-red-contrib-google-sheets
+npm install -g @studiobox/node-red-contrib-ui-widget-thermometer
+npm install -g @gogovega/node-red-contrib-firebase-realtime-database

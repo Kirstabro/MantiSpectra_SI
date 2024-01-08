@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "manti-spectra",
+  "private_key_id": "dcef58e362f05dab087712214c07e82b802a23a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUPpORiIF8l7tQ\no0RQuX2NTNuk3Z8QjaThZUmtDXXIpBSZZesZO5qUZtfqngFbbmFNuX4pIFh2NO+T\nLSwbxWbqDdRTK/RC1XmFNwQsVz/m+QVTsVW6AytcFbnZ3OTgQpuir59/5lruxc9+\nOtD22eswugqclv76GJKfkrQwIz8qbS1qQYKWsmqjwYV1JL4jofLfS585zNK9Xu2v\nxBg9A8yLA9ERbSyXc8Mqb9kxHwMC/qQWqzI8i+5RA8ftCCQILe4NpKtRNP3ZaL4R\nmZBEuzslNXHyX3jhYMxau2x9RUZoAA2PxdsoSU7gIeJUnqd3TszvtMove88+rkLf\nfUJVtPNLAgMBAAECggEAPOLgsXiv8L6UWTsk/2Ve65iXT/HVzklb+d71JkQ8vDy5\nvhG7QkdTfmwMV71RFVoSZtomI4Uoa2yfJ6DnTOYxskYaWWu8DCoyTLFuLIwxBED+\nsrYmKhD7sNR4ttOEAwOIo0BvaKD8CBBOCF+2D4KPUjCkl6xHZBaFhWpv73lFBxW5\n59Lqx8nbSPfSx8EI049l+w0x+3+xFaAlZIhYe1rbCanaQQ3gYUBziPHx/ITX5Iaw\nLEISEaoCIfDC+GbVBG/VvSvL0bwy+ccbKPNRDLI0mgxsKBLqWnpZEKIlITIfVuSk\nf7ikrgBim/CXBgf5PtB1faPguAPLJCjSgh9/UaMFlQKBgQD2Ljz0DyxvucrN0T5x\nHVrKQtEUSjlmLC2mhfzoLqA2jWqU0/tjyEtJRfCIzHY+w0whEQWaRNrnnnML2zZu\nvnJuHXQuW2pPIWNqwX7+WaKmzUroh4xCVDnOI0c+8FmORXJgHqi3MXNgljTdka3Y\nVlQagvPwGLF0EmT64idb+7BgRwKBgQDctdB99kCN+eoHsQdR91EnF/q5AVKkRoCB\nmnyaLoUM4J30YR5LdZVNqsUPOy2sVvlQ0zGdt6a8F7Dgw6fKVfEXsGNYstMitLJ9\nRZlOmq3qhs/FPD3Ro8fMYv89xSP53MSu+AFdJThNiGqza7SgYr62IJAnYq0Jj+t7\nBowRUvB63QKBgQDWKz29+eFnxZPo4KvZDneo1N4+L6CmAbMpVxHCEKYzL25U0eK3\nWU4eDemHqZEJYzA86Cken95teIyP+QLu72Jv59HmboMbGmn6OyI3N1XolVsg1qOw\nJMQxUMGvwLu4qTQq6SFQVoYQtjyBsjYyqk/6zIhaDbF70HDnTo59WIaGCwKBgFFR\nI3nlSq+Ejnc7AClw55NxwEx9ckdYOmyF0La1wQuXjlrFlXXT4qh07JnKAe/nM4BV\n74febC4MxHxrWdywgV1q/Y9mg2fcD48cH3nYf49TECXpJhWhNDHXn5bQlYqvjj+w\n3D/HQNFAG5/zZN9awk0z/iiksIA/aFExflW7qyJ5AoGBAJi9oZ2kC3J9b+o1278G\nKKMAUDkDmxWJr64sBjGUSisVfbZBi2hz8KXazJXT5YeFso5JR9COghjGerY7BQcc\nNSPvMDhvghtAEoVZDPz7ILETrhI6ZxXMmIp7equxSK9KcIJO4QSWiqy0oCfTG51c\nH5K26TJh/jYBYIZSr5D+NLXW\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6k8wk@manti-spectra.iam.gserviceaccount.com",
+  "client_id": "109958329506188568851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6k8wk%40manti-spectra.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

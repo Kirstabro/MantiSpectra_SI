@@ -1,0 +1,4946 @@
+[
+    {
+        "id": "b58fa6ad90650cac",
+        "type": "tab",
+        "label": "Dashboard",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "cad9b11d32f11f27",
+        "type": "tab",
+        "label": "Firebase / Excel / MQTT ",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ce626a8898d2bdda",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 1,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d831a7ca60e7da77",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 2,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d992024a6b8b07c4",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 1,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "c3c804ab4d2ea354",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 2,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "cc4fdbe3d7fc93a5",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 1,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "e0367a19c597d8ec",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 2,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "8b6b6c6ddf80b39d",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 1,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "ba67044a04311ded",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 2,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "44b9a1f17cbacb0d",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 1,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "a6f0383b574d4d19",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 2,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "2a745f59c304317a",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 1,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "55ee3dae84eeceec",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 3,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "7e13787284230c06",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 4,
+        "width": 30,
+        "height": 1
+    },
+    {
+        "id": "aee0b32bd0dea3c8",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 5,
+        "width": 30,
+        "height": 1
+    },
+    {
+        "id": "c90543fc4b23d2f3",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 7,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a8027ed2dbeab5de",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2ae9b38d8e1c2d8d",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 11,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "92bfd4133f81c8bb",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 13,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "1b1ccd061deb2047",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 15,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "67aba42dbc5bca07",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 16,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "0f4c7f2358953529",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 17,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d4ed7cefac076eee",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 18,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8ba9ac2dfa2a49c5",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 19,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "011624dd6498fa37",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 20,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c14f7abba20395b0",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 21,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "50743937365e2549",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 22,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "487a765ce68e9bbc",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 23,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ae027dd420f50bc8",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 24,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e7236346e402bd1a",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 25,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "980bb674c8caa147",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 26,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8878b288b4a37124",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 27,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e9b1f07c5fdd5cea",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 28,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "eb1389738c1b6da8",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 29,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "99059406cfa0f426",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 30,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "43582dea0e008bad",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 31,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8dac0158bb08dbd4",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 32,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "70565c14b78ee105",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 33,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ff8069a652fd1be1",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 34,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a1bfffabb8058988",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 35,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "980af62fda3b93c8",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 36,
+        "width": 30,
+        "height": 1
+    },
+    {
+        "id": "5ec9d6c696491b21",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 38,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "bbef6a599f15fd37",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 40,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a0d57f99e1077f1a",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 42,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e0030e30739fce0a",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 44,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "394f1549bae4abb5",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 46,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4a811e646b6e53e5",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 47,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "eca61ad76f0675f4",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 48,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "06e3ee67a81ee917",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 49,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "f132024e783a74d7",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 50,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "122bb5ceaf5b711e",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 51,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "819bb881a42ae7ee",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 52,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "f816b1831b9530e3",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 53,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "138ac6041e9c49d5",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 54,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "0a103085a4ce888f",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 55,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "919197977a491ed9",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 56,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "fe05e01fcd6f8a88",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 57,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d83c8d2ca7d85d09",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 58,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "b6bbc8e166405c30",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 59,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "812288de7952289b",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 60,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "3b5dbe3b7ed387a6",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 61,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "40dda61c3629ea2c",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 62,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "3bb0aca7c3218cca",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 63,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d125b72e0f06db21",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 64,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "6ebccdf9071b5913",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 65,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "5f7c93752c2d8fa4",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 66,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4c57ac7c119d6f79",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 67,
+        "width": 30,
+        "height": 1
+    },
+    {
+        "id": "8faf89d290406cdf",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 69,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c87e13c95ef0dea9",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 71,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9d5d58a43e3280a1",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 73,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "6cc97e728a4aa1e3",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 75,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "535d9e4db0abf857",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 77,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "92b8acad025d846c",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 78,
+        "width": 30,
+        "height": 1
+    },
+    {
+        "id": "f3c6c16929688ece",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 79,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "5cf5b3a38198d7a1",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "5eaf07e18f7e2686",
+        "order": 81,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "d7fa43c5e7e7a2c1",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 3,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "2d76db2e84c34e61",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 4,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "fc8ebf0fea6068d7",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "dcf153e89cea0ae5",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "1d42d703eeee4710",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "1434845bc849bcfe",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 8,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "3c66e6634471e443",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "5192adba25f2b993",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "a6a27e034b64b8d6",
+        "order": 4,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "a94851821f43274f",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "a6a27e034b64b8d6",
+        "order": 5,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "57f3bec8d9fbb548",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "a6a27e034b64b8d6",
+        "order": 11,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "9f550d5d8a9a7a8a",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "a6a27e034b64b8d6",
+        "order": 13,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "f60c9579f006ad54",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "e831901e90806e84",
+        "order": 2,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "0a952b5211a7ee48",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "e831901e90806e84",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "b7d461cb4580cd0b",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "e831901e90806e84",
+        "order": 4,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "811a0d9cce329bde",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "e831901e90806e84",
+        "order": 5,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "13b3581ce21b6585",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "73bca093fecfb9dd",
+        "order": 2,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "d621484bbb27a752",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "73bca093fecfb9dd",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "f4d9ceadd223e8b4",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "73bca093fecfb9dd",
+        "order": 4,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "dd81725d494b5e0b",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "73bca093fecfb9dd",
+        "order": 5,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "c414c1e25764066a",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "064d0bcf28f7e1c3",
+        "order": 2,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "146689622a9edcdb",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "064d0bcf28f7e1c3",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "20684721f3db987b",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "064d0bcf28f7e1c3",
+        "order": 4,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "168db45a7845ba39",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "064d0bcf28f7e1c3",
+        "order": 5,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "eeb4906f9e019ff7",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "c1070524f4a54fef",
+        "order": 2,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "8b46e17ac9e44a4b",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "c1070524f4a54fef",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "1fdf113a40f1a534",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "c1070524f4a54fef",
+        "order": 4,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "4052f3cf1a5024d6",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "c1070524f4a54fef",
+        "order": 5,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "6f69b3d496ce4a62",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "4d7827465dda0e8e",
+        "order": 2,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "dfe70d3d36a3a49d",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "4d7827465dda0e8e",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "05bc057662c7a73c",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4b4ec912e30d150e",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "f1d4829d1e66042a",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "cbd7a7d47ea645c9",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 8,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "3dfefc98c5b3b570",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "b97d5c52bc640deb",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "2313f20971b14db6",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "3b4318f4a2e21cf6",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "12bac9782ce31540",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 13,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ff70ebae194b8a1c",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "b9cde1c22166b020",
+        "order": 15,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "0d3e036fee013f1b",
+        "type": "ui_spacer",
+        "z": "b58fa6ad90650cac",
+        "name": "spacer",
+        "group": "55954b967190e3d0",
+        "order": 21,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "c1070524f4a54fef",
+        "type": "ui_group",
+        "name": "pH",
+        "tab": "d5effab890726cdc",
+        "order": 5,
+        "disp": true,
+        "width": 5,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4d7827465dda0e8e",
+        "type": "ui_group",
+        "name": "Temperatuur",
+        "tab": "d5effab890726cdc",
+        "order": 6,
+        "disp": true,
+        "width": "5",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e831901e90806e84",
+        "type": "ui_group",
+        "name": "Alcohol",
+        "tab": "d5effab890726cdc",
+        "order": 2,
+        "disp": true,
+        "width": 5,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a6a27e034b64b8d6",
+        "type": "ui_group",
+        "name": "Gegevens",
+        "tab": "d5effab890726cdc",
+        "order": 1,
+        "disp": true,
+        "width": 5,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "74708cc474d5caae",
+        "type": "ui_group",
+        "name": "Grafiek Parameters",
+        "tab": "6e2799dfac9c6821",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "73bca093fecfb9dd",
+        "type": "ui_group",
+        "name": "Suiker",
+        "tab": "d5effab890726cdc",
+        "order": 3,
+        "disp": true,
+        "width": 5,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "064d0bcf28f7e1c3",
+        "type": "ui_group",
+        "name": "Geleidbaarheid",
+        "tab": "d5effab890726cdc",
+        "order": 4,
+        "disp": true,
+        "width": 5,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b9cde1c22166b020",
+        "type": "ui_group",
+        "name": "Algemene Instellingen",
+        "tab": "6e2799dfac9c6821",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a391904e017725dc",
+        "type": "mqtt-broker",
+        "name": "mantispectra",
+        "broker": "test.mosquitto.org:1883",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "10",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "c74368c2056ed89a",
+        "type": "database-config",
+        "name": "My Database",
+        "authType": "privateKey",
+        "claims": {},
+        "createUser": false,
+        "useClaims": false
+    },
+    {
+        "id": "55954b967190e3d0",
+        "type": "ui_group",
+        "name": "Meter Parameters",
+        "tab": "6e2799dfac9c6821",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d5effab890726cdc",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "6e2799dfac9c6821",
+        "type": "ui_tab",
+        "name": "Settings",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": true
+    },
+    {
+        "id": "11ec7ef0be91cf79",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 8,
+                "gy": 8,
+                "cx": 8,
+                "cy": 8,
+                "px": 8,
+                "py": 8
+            }
+        }
+    },
+    {
+        "id": "1e06661be3e1b19c",
+        "type": "gauth",
+        "name": "admin-778@manti-spectra.iam.gserviceaccount.com"
+    },
+    {
+        "id": "7000e21dd340ab84",
+        "type": "remote-config",
+        "name": "Node-RED UI",
+        "host": "localhost",
+        "protocol": "http",
+        "port": "1880",
+        "baseurl": "/ui",
+        "instancehash": "j7iz1dodpkl6aau7v1ylq25zi7966q2sruzho9wqhppikwneva7qg5cs7f24wpr2",
+        "server": "nodered02.remote-red.com",
+        "region": "de"
+    },
+    {
+        "id": "f254b002f6e88617",
+        "type": "ui_gauge",
+        "z": "b58fa6ad90650cac",
+        "name": "pH",
+        "group": "c1070524f4a54fef",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "gtype": "gage",
+        "title": "",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "14",
+        "colors": [
+            "#b30000",
+            "#00e626",
+            "#cb3a3a"
+        ],
+        "seg1": "4.2",
+        "seg2": "4.4",
+        "diff": false,
+        "className": "",
+        "x": 590,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "48cd8e9536a79e83",
+        "type": "ui_widget_thermometer",
+        "z": "b58fa6ad90650cac",
+        "group": "4d7827465dda0e8e",
+        "order": 1,
+        "width": 5,
+        "height": 6,
+        "name": "Temperatuur",
+        "title": " ",
+        "numColor": 3,
+        "colorTop": "#2196f3",
+        "colorMiddle": "#8bc34a",
+        "colorBottom": "#f44336",
+        "unit": "°C",
+        "scale": "normal",
+        "minTemp": 0,
+        "maxTemp": "30",
+        "minTempMoreThanMaxTemp": "1",
+        "numberOfDecimals": "2",
+        "showPercentage": "0",
+        "currentTempFontSize": "1.2",
+        "x": 610,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "752bac743c6d9258",
+        "type": "ui_gauge",
+        "z": "b58fa6ad90650cac",
+        "name": "Alcohol",
+        "group": "e831901e90806e84",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "gtype": "gage",
+        "title": "",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "20",
+        "colors": [
+            "#b30000",
+            "#50e600",
+            "#ca3838"
+        ],
+        "seg1": "4",
+        "seg2": "5",
+        "diff": false,
+        "className": "",
+        "x": 590,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "870fde370d76a4df",
+        "type": "comment",
+        "z": "b58fa6ad90650cac",
+        "name": "Dashboard/Eigenschappen",
+        "info": "",
+        "x": 210,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "d567bcb152a9e978",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 6,
+        "width": 5,
+        "height": 1,
+        "name": "Alcohol",
+        "label": "Alcohol:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "18",
+        "color": "#ffffff",
+        "x": 590,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "b36965e98080cb0d",
+        "type": "ui_chart",
+        "z": "b58fa6ad90650cac",
+        "name": "Temperatuur",
+        "group": "4d7827465dda0e8e",
+        "order": 4,
+        "width": 5,
+        "height": 6,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#007007",
+            "#ff0000",
+            "#ff0000",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 610,
+        "y": 1040,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "15a56fb270f6f52d",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 10,
+        "width": 5,
+        "height": 1,
+        "name": "Temperatuur",
+        "label": "Temperatuur:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "18",
+        "color": "#ffffff",
+        "x": 610,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "ab64e4862eb4169b",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "Temperatuur",
+        "func": "//var INPUT = msg.payload;\nvar msg1tmp = global.get('tmpval', \"file\");\nvar msg2tmp = global.get('tmpmin', \"file\");\nvar msg3tmp = global.get('tmpmax', \"file\");\nvar msg4tmp;\n\nif (msg1tmp >= msg2tmp && msg1tmp <= msg3tmp) {\n    msg4tmp = { payload: \"OK\" };\n} else {\n    msg4tmp = { payload: \"FAULT\" };\n}\n\nreturn [\n    { payload: msg1tmp, topic: 'Line1' },\n    { payload: msg2tmp, topic: 'Line2' },\n    { payload: msg3tmp, topic: 'Line3' },\n    msg4tmp\n];\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 1000,
+        "wires": [
+            [
+                "48cd8e9536a79e83",
+                "b36965e98080cb0d"
+            ],
+            [
+                "b36965e98080cb0d"
+            ],
+            [
+                "b36965e98080cb0d"
+            ],
+            [
+                "15a56fb270f6f52d"
+            ]
+        ]
+    },
+    {
+        "id": "038c80120e31e2ee",
+        "type": "ui_chart",
+        "z": "b58fa6ad90650cac",
+        "name": "Alcohol",
+        "group": "e831901e90806e84",
+        "order": 6,
+        "width": 5,
+        "height": 6,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "20",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#007007",
+            "#ff0000",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 590,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e7d2751343ae94eb",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "Alcohol",
+        "func": "//var INPUT = msg.payload;\nvar msg1Alc = global.get('alcval', \"file\");\nvar msg2Alc = global.get('alcmin', \"file\");\nvar msg3Alc = global.get('alcmax', \"file\");\nvar msg4Alc;\nvar min = global.get('gaugeAlcMin', \"file\");\nvar max = global.get('gaugeAlcMax', \"file\");\n\nif (msg1Alc >= msg2Alc && msg1Alc <= msg3Alc) {\n    msg4Alc = { payload: \"OK\" };\n} else {\n    msg4Alc = { payload: \"FAULT\" };\n}\n\nreturn [\n    { payload: msg1Alc, topic: 'Line1', ui_control: { min: min, max: max } },\n    { payload: msg2Alc, topic: 'Line2' },\n    { payload: msg3Alc, topic: 'Line3' },\n    msg4Alc\n];\n\n\n\n\n\n\n\n\n\n\n",
+        "outputs": 4,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 300,
+        "wires": [
+            [
+                "038c80120e31e2ee",
+                "752bac743c6d9258"
+            ],
+            [
+                "038c80120e31e2ee"
+            ],
+            [
+                "038c80120e31e2ee"
+            ],
+            [
+                "d567bcb152a9e978"
+            ]
+        ]
+    },
+    {
+        "id": "74131a48ea39a60b",
+        "type": "ui_button",
+        "z": "b58fa6ad90650cac",
+        "name": "Settings",
+        "group": "a6a27e034b64b8d6",
+        "order": 12,
+        "width": 5,
+        "height": 1,
+        "passthru": true,
+        "label": "Instellingen",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 240,
+        "y": 1660,
+        "wires": [
+            [
+                "5967c93c3d4e3ba0"
+            ]
+        ]
+    },
+    {
+        "id": "bd5c5b1f03e8865c",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 14",
+        "func": "// Check if the button is pressed\nif (msg.payload === true) {\n    // If the button is pressed, trigger the action\n    msg.payload = { \"tab\": \"Home\" }; // Replace with your specific action or message\n    msg.screen = \"desired_screen\";   // Replace with the name of the screen to activate\n    return msg;\n} else {\n    // If the button is not pressed, do nothing\n    return null; // Return null or an empty message\n}\n\n//{ \"tab\": $floor($random() * 4) }",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 1580,
+        "wires": [
+            [
+                "828a70ded10192bc"
+            ]
+        ]
+    },
+    {
+        "id": "828a70ded10192bc",
+        "type": "ui_ui_control",
+        "z": "b58fa6ad90650cac",
+        "name": "",
+        "events": "all",
+        "x": 620,
+        "y": 1620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5967c93c3d4e3ba0",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 15",
+        "func": "// Check if the button is pressed\nif (msg.payload === true) {\n    // If the button is pressed, trigger the action\n    msg.payload = { \"tab\": \"Settings\" }; // Replace with your specific action or message\n    msg.screen = \"desired_screen\";   // Replace with the name of the screen to activate\n    return msg;\n} else {\n    // If the button is not pressed, do nothing\n    return null; // Return null or an empty message\n}\n\n//{ \"tab\": $floor($random() * 4) }",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 1660,
+        "wires": [
+            [
+                "828a70ded10192bc"
+            ]
+        ]
+    },
+    {
+        "id": "b61fb8d4312a7b6d",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "name": "alcBereik",
+        "label": "Alcohol",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 720,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "1d57d243abbd1915",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 21,
+        "width": 6,
+        "height": 1,
+        "name": "tmpBereik",
+        "label": "Temperatuur",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 760,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "b6de8907e5b4c699",
+        "type": "ui_gauge",
+        "z": "b58fa6ad90650cac",
+        "name": "Suiker ",
+        "group": "73bca093fecfb9dd",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "gtype": "gage",
+        "title": "",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "20",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 580,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "06317084a33ac3f8",
+        "type": "ui_chart",
+        "z": "b58fa6ad90650cac",
+        "name": "Suiker",
+        "group": "73bca093fecfb9dd",
+        "order": 6,
+        "width": 5,
+        "height": 6,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "20",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#007007",
+            "#ff0000",
+            "#ff0000",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 580,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "13b17571f44431f5",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 7,
+        "width": 5,
+        "height": 1,
+        "name": "Suiker",
+        "label": "Suiker:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "18",
+        "color": "#ffffff",
+        "x": 580,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "e6296d5385a40f4f",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "Suiker",
+        "func": "//var INPUT = msg.payload;\nvar msg1skr = global.get('skrval', \"file\");\nvar msg2skr = global.get('skrmin', \"file\");\nvar msg3skr = global.get('skrmax', \"file\");\nvar msg4skr;\n\nvar min = global.get('gaugeSkrMin', \"file\");\nvar max = global.get('gaugeSkrMax', \"file\");\n\nif (msg1skr >= msg2skr && msg1skr <= msg3skr) {\n    msg4skr = { payload: \"OK\" };\n} else {\n    msg4skr = { payload: \"FAULT\" };\n}\n\nreturn [\n    { payload: msg1skr, topic: 'Line1', ui_control: { min: min, max: max } },\n    { payload: msg2skr, topic: 'Line2' },\n    { payload: msg3skr, topic: 'Line3' },\n    msg4skr\n];\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 480,
+        "wires": [
+            [
+                "b6de8907e5b4c699",
+                "06317084a33ac3f8"
+            ],
+            [
+                "06317084a33ac3f8"
+            ],
+            [
+                "06317084a33ac3f8"
+            ],
+            [
+                "13b17571f44431f5"
+            ]
+        ]
+    },
+    {
+        "id": "d55f5bb90e9eb48c",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 6,
+        "width": 6,
+        "height": 1,
+        "name": "skrBereik",
+        "label": "Suiker",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 700,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "0a9d3dd968fa3802",
+        "type": "ui_gauge",
+        "z": "b58fa6ad90650cac",
+        "name": "Geleidbaarheid",
+        "group": "064d0bcf28f7e1c3",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "gtype": "gage",
+        "title": "",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "15",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 620,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "3c82f0d39a224f5c",
+        "type": "ui_chart",
+        "z": "b58fa6ad90650cac",
+        "name": "pH",
+        "group": "c1070524f4a54fef",
+        "order": 6,
+        "width": 5,
+        "height": 6,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#007007",
+            "#ff0000",
+            "#ff0000",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 590,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d3972cb37af209c9",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 9,
+        "width": 5,
+        "height": 1,
+        "name": "pH",
+        "label": "pH:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "18",
+        "color": "#ffffff",
+        "x": 590,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "639d919a0e1db02a",
+        "type": "ui_chart",
+        "z": "b58fa6ad90650cac",
+        "name": "Geleidbaarheid",
+        "group": "064d0bcf28f7e1c3",
+        "order": 6,
+        "width": 5,
+        "height": 6,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#007007",
+            "#ff0000",
+            "#ff0000",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 620,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e6caa093e04b86a8",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 8,
+        "width": 5,
+        "height": 1,
+        "name": "Geleidbaarheid",
+        "label": "Geleidbaarheid:",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "18",
+        "color": "#ffffff",
+        "x": 620,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "46d04c9b805707d2",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "pH",
+        "func": "//var INPUT = msg.payload;\nvar msg1ph = global.get('phval', \"file\");\nvar msg2ph = global.get('phmin', \"file\");\nvar msg3ph = global.get('phmax', \"file\");\nvar msg4ph;\n\nvar min = global.get('gaugepHMin', \"file\");\nvar max = global.get('gaugepHMax', \"file\");\n\nif (msg1ph >= msg2ph && msg1ph <= msg3ph) {\n    msg4ph = { payload: \"OK\" };\n} else {\n    msg4ph = { payload: \"FAULT\" };\n}\n\nreturn [\n    { payload: msg1ph, topic: 'Line1', ui_control: { min: min, max: max } },\n    { payload: msg2ph, topic: 'Line2' },\n    { payload: msg3ph, topic: 'Line3' },\n    msg4ph\n];\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 660,
+        "wires": [
+            [
+                "3c82f0d39a224f5c",
+                "f254b002f6e88617"
+            ],
+            [
+                "3c82f0d39a224f5c"
+            ],
+            [
+                "3c82f0d39a224f5c"
+            ],
+            [
+                "d3972cb37af209c9"
+            ]
+        ]
+    },
+    {
+        "id": "c05f82a520fc5f73",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "Geleidbaarheid",
+        "func": "//var INPUT = msg.payload;\nvar msg1gbd = global.get('gbdval', \"file\");\nvar msg2gbd = global.get('gbdmin', \"file\");\nvar msg3gbd = global.get('gbdmax', \"file\");\nvar msg4gbd;\n\nvar min = global.get('gaugeGbdMin', \"file\");\nvar max = global.get('gaugeGbdMax', \"file\");\n\nif (msg1gbd >= msg2gbd && msg1gbd <= msg3gbd) {\n    msg4gbd = { payload: \"OK\" };\n} else {\n    msg4gbd = { payload: \"FAULT\" };\n}\n\nreturn [\n    { payload: msg1gbd, topic: 'Line1', ui_control: { min: min, max: max } },\n    { payload: msg2gbd, topic: 'Line2' },\n    { payload: msg3gbd, topic: 'Line3' },\n    msg4gbd\n];\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 840,
+        "wires": [
+            [
+                "0a9d3dd968fa3802",
+                "639d919a0e1db02a"
+            ],
+            [
+                "639d919a0e1db02a"
+            ],
+            [
+                "639d919a0e1db02a"
+            ],
+            [
+                "e6caa093e04b86a8"
+            ]
+        ]
+    },
+    {
+        "id": "3fa396ad9efad02f",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 11,
+        "width": 6,
+        "height": 1,
+        "name": "pHBereik",
+        "label": "pH",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 720,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "f066d08e9804786e",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 16,
+        "width": 6,
+        "height": 1,
+        "name": "gbdBereik",
+        "label": "Geleidbaarheid",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 780,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "f390e5f766a6801c",
+        "type": "ui_button",
+        "z": "b58fa6ad90650cac",
+        "name": "Back",
+        "group": "b9cde1c22166b020",
+        "order": 14,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "label": "Back",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 230,
+        "y": 1580,
+        "wires": [
+            [
+                "bd5c5b1f03e8865c"
+            ]
+        ]
+    },
+    {
+        "id": "9d8a17d2712d0c5d",
+        "type": "comment",
+        "z": "b58fa6ad90650cac",
+        "name": "",
+        "info": "Bij datalimiet minimaal op 30seconden zetten als het eronder is\nAls het eronder is verander dit naar 30 en geef een notificatie.\n\nDit ook voor bereik maar dan nul\n",
+        "x": 780,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "e9e226d872ab9ab0",
+        "type": "comment",
+        "z": "b58fa6ad90650cac",
+        "name": "",
+        "info": "- MQTT Opzetten voor meerdere values.\n\n- Last message laten zien?\n\n- Thermo bereik erin zetten?\n\n\n- Fouten eruit halen als Max kan niet kleiner zijn dan Min?\n\n\n\nGedaan:\n- Repeat code loop instelling gebruiker?\nNee, constant 10\n\n- Andere fout, bij deploy wordt de eerste geladen bij firebase\nMisschien via MQTT het doorzetten naar excel ipv database, dan is het gefixt.\n\n- Reset settings bereik erin?\nJa",
+        "x": 980,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "0e5a6c51c547076d",
+        "type": "ui_button",
+        "z": "b58fa6ad90650cac",
+        "name": "Reset Settings",
+        "group": "b9cde1c22166b020",
+        "order": 7,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "label": "Reset Instellingen",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 260,
+        "y": 1740,
+        "wires": [
+            [
+                "8236c86ca589b3e8"
+            ]
+        ]
+    },
+    {
+        "id": "8236c86ca589b3e8",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 37",
+        "func": "// Check if the button is pressed\n//if (msg.payload === true) {\n\n    //Delay op unit seconden\n    global.set(\"procesunit\", 1, \"file\");\n\n    //Delay op 60 (seconden)\n    global.set(\"procesdelay\", 60, \"file\");\n\n    //Maximale range waarde\n    global.set(\"alcmax\", 5, \"file\");\n    global.set(\"skrmax\", 6, \"file\");\n    global.set(\"phmax\", 4.4, \"file\");\n    global.set(\"gbdmax\", 10, \"file\");\n    global.set(\"tmpmax\", 25, \"file\");\n\n    //Minimale range waarde\n    global.set(\"alcmin\", 4, \"file\");\n    global.set(\"skrmin\", 4, \"file\");\n    global.set(\"phmin\", 4.2, \"file\");\n    global.set(\"gbdmin\", 3, \"file\");\n    global.set(\"tmpmin\", 20, \"file\");\n\n    //Maximale gauge waarde\n    global.set(\"gaugeAlcMax\", 10, \"file\");\n    global.set(\"gaugeSkrMax\", 10, \"file\");\n    global.set(\"gaugepHMax\", 14, \"file\");\n    global.set(\"gaugeGbdMax\", 20, \"file\");\n    global.set(\"gaugeTmpMax\", 30, \"file\");\n    \n    //Minimale gauge waarde\n    global.set(\"gaugeAlcMin\", 0, \"file\");\n    global.set(\"gaugeSkrMin\", 0, \"file\");\n    global.set(\"gaugepHMin\", 0, \"file\");\n    global.set(\"gaugeGbdMin\", 0, \"file\");\n    global.set(\"gaugeTmpMin\", 0, \"file\");\n\n    ",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 1740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f9dfcb444da78438",
+        "type": "ui_dropdown",
+        "z": "b58fa6ad90650cac",
+        "name": "dproces",
+        "label": "",
+        "tooltip": "",
+        "place": "Selecteer",
+        "group": "b9cde1c22166b020",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Seconden",
+                "value": "1",
+                "type": "str"
+            },
+            {
+                "label": "Minuten",
+                "value": "2",
+                "type": "str"
+            },
+            {
+                "label": "Uur",
+                "value": "3",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "#:(file)::alcunit",
+        "topicType": "global",
+        "className": "",
+        "x": 410,
+        "y": 1440,
+        "wires": [
+            [
+                "6eb89a5261c0e713"
+            ]
+        ]
+    },
+    {
+        "id": "8189893eb376b9dc",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "save procesdelay",
+        "func": "var procesdelay = msg.payload;\nglobal.set(\"procesdelay\", procesdelay, \"file\");\nreturn { payload: procesdelay };\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 1400,
+        "wires": [
+            [
+                "3a2c99c5eb540914"
+            ]
+        ]
+    },
+    {
+        "id": "6eb89a5261c0e713",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "save procesunit",
+        "func": "var procesunit = msg.payload;\nglobal.set(\"procesunit\", procesunit, \"file\");\nreturn { payload: procesunit };\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 1440,
+        "wires": [
+            [
+                "3a2c99c5eb540914"
+            ]
+        ]
+    },
+    {
+        "id": "56bb217fa046b017",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "nmbproces",
+        "label": "",
+        "tooltip": "",
+        "group": "b9cde1c22166b020",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 400,
+        "y": 1400,
+        "wires": [
+            [
+                "8189893eb376b9dc"
+            ]
+        ]
+    },
+    {
+        "id": "f512527399610e3e",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "procesdelay",
+        "func": "var procesdelay = global.get('procesdelay', \"file\");\nmsg.payload = procesdelay;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 1400,
+        "wires": [
+            [
+                "56bb217fa046b017"
+            ]
+        ]
+    },
+    {
+        "id": "21d056230dc654ec",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "procesunit",
+        "func": "var procesunit = global.get('procesunit', \"file\");\nmsg.payload = procesunit;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 1440,
+        "wires": [
+            [
+                "f9dfcb444da78438"
+            ]
+        ]
+    },
+    {
+        "id": "db51d8a0e9574432",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "b9cde1c22166b020",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "name": "procesDataLim",
+        "label": "Datalimiet Algemeen proces",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 940,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "9cd134f1e642f5b7",
+        "type": "mqtt out",
+        "z": "b58fa6ad90650cac",
+        "name": "MQTT out",
+        "topic": "mantispectra/interval",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "a391904e017725dc",
+        "x": 1180,
+        "y": 1420,
+        "wires": []
+    },
+    {
+        "id": "3a2c99c5eb540914",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "msg.delay ",
+        "func": "var unit = global.get(\"procesunit\", \"file\");\nvar nr = global.get(\"procesdelay\", \"file\");\n\nif (unit == 1) // seconds\n{\n    if (nr < 60){\n        nr = 60;\n        global.set(\"procesdelay\", nr,\"file\");\n    } \n    var delayScnd = (nr * 1 * 1000);\n    global.set(\"msgdelay\", delayScnd,\"file\")\n    msg.delay = delayScnd;\n    return msg;\n}\nelse if (unit == 2) // minutes\n{\n    var delayScnd = (nr * 60 * 1000);\n    global.set(\"msgdelay\", delayScnd,\"file\")\n    msg.delay = delayScnd;\n    return msg;\n}\nelse if (unit == 3) // hours\n{\n    var delayScnd = (nr * 3600 * 1000);\n    global.set(\"msgdelay\", delayScnd,\"file\")\n    msg.delay = delayScnd;\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 1420,
+        "wires": [
+            [
+                "3c9f51869705a0ff",
+                "c87a819ad11ffe93"
+            ]
+        ]
+    },
+    {
+        "id": "3c9f51869705a0ff",
+        "type": "link out",
+        "z": "b58fa6ad90650cac",
+        "name": "link out 2",
+        "mode": "link",
+        "links": [
+            "1b75dda511c12072",
+            "1d8da9e7537badf0",
+            "ad11e4b1926ad276",
+            "daf805018ee19f0f",
+            "f0f83e0737231c31"
+        ],
+        "x": 945,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "809ccfbc1c2f824e",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 9,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 710,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "091fb371f215da84",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 12,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 690,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "bf57fd214ad2fb05",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 690,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "b2340d1c08efe6a2",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 710,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "f06cba0dc351deb7",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 19,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 710,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "f0c18bddf09ed4ca",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 17,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 770,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "e7f141dffba41b90",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 14,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 770,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "3f9130f45d4087ca",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 7,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 750,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "d3c346d0af8f4e93",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 24,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 750,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "b053aa8f70b12504",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "74708cc474d5caae",
+        "order": 22,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 710,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "fdb747f87fe8c929",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 30",
+        "func": "var msg2Gbd = global.get('gbdmin', \"file\");\nmsg.payload = msg2Gbd;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2520,
+        "wires": [
+            [
+                "87f109b5d97c2e4f"
+            ]
+        ]
+    },
+    {
+        "id": "b7cb929e0b5bde17",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 31",
+        "func": "var msg3Gbd = global.get('gbdmax', \"file\");\nmsg.payload = msg3Gbd;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2580,
+        "wires": [
+            [
+                "ef0a47c50249b82e"
+            ]
+        ]
+    },
+    {
+        "id": "87f109b5d97c2e4f",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "GbdMin",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 18,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 2520,
+        "wires": [
+            [
+                "a9f77ed86c6c9ca4"
+            ]
+        ]
+    },
+    {
+        "id": "ef0a47c50249b82e",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "GbdMax",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 20,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 2580,
+        "wires": [
+            [
+                "bf48041b7962fd1d"
+            ]
+        ]
+    },
+    {
+        "id": "f9ca2ea2f881be91",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 23",
+        "func": "var msg3Alc = global.get('alcmax', \"file\");\nmsg.payload = msg3Alc;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2220,
+        "wires": [
+            [
+                "ed024727613a1a34"
+            ]
+        ]
+    },
+    {
+        "id": "ed024727613a1a34",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "AlcMax",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 2220,
+        "wires": [
+            [
+                "74cf3ef6061d98dc"
+            ]
+        ]
+    },
+    {
+        "id": "2243aab59277c914",
+        "type": "link in",
+        "z": "b58fa6ad90650cac",
+        "name": "link in 18",
+        "links": [
+            "35c87027e687e9c0"
+        ],
+        "x": 125,
+        "y": 2400,
+        "wires": [
+            [
+                "f9ca2ea2f881be91",
+                "409f013e721b320f",
+                "2f4c6e26a72e915b",
+                "a746d0460f29c9d8",
+                "474fb2766636ec21",
+                "fdb747f87fe8c929",
+                "b7cb929e0b5bde17",
+                "43fa2d15e28d01f9",
+                "4ce834b95f06c535",
+                "bdf1e325ad1c11d7"
+            ]
+        ]
+    },
+    {
+        "id": "409f013e721b320f",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 24",
+        "func": "var msg2Skr = global.get('skrmin', \"file\");\nmsg.payload = msg2Skr;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2280,
+        "wires": [
+            [
+                "82cd8580629feef7"
+            ]
+        ]
+    },
+    {
+        "id": "82cd8580629feef7",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "SkrMin",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 8,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "#:(file)::skrmin",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "global",
+        "x": 420,
+        "y": 2280,
+        "wires": [
+            [
+                "05a5f1fa1e598a29"
+            ]
+        ]
+    },
+    {
+        "id": "2f4c6e26a72e915b",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 25",
+        "func": "var msg3Skr = global.get('skrmax', \"file\");\nmsg.payload = msg3Skr;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2340,
+        "wires": [
+            [
+                "9289ee8ecb1089bd"
+            ]
+        ]
+    },
+    {
+        "id": "9289ee8ecb1089bd",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "SkrMax",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 10,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 2340,
+        "wires": [
+            [
+                "92d480396213b96d"
+            ]
+        ]
+    },
+    {
+        "id": "a746d0460f29c9d8",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 28",
+        "func": "var msg2pH = global.get('phmin', \"file\");\nmsg.payload = msg2pH;\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2400,
+        "wires": [
+            [
+                "78ea18d35dede8fc"
+            ]
+        ]
+    },
+    {
+        "id": "78ea18d35dede8fc",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "pHMin",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 13,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 430,
+        "y": 2400,
+        "wires": [
+            [
+                "0228c2cf30d16b55"
+            ]
+        ]
+    },
+    {
+        "id": "474fb2766636ec21",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 29",
+        "func": "var msg3pH = global.get('phmax', \"file\");\nmsg.payload = msg3pH;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2460,
+        "wires": [
+            [
+                "46e18633cb5b543d"
+            ]
+        ]
+    },
+    {
+        "id": "46e18633cb5b543d",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "pHMax",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 15,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 2460,
+        "wires": [
+            [
+                "9f3bd6bda44a3a49"
+            ]
+        ]
+    },
+    {
+        "id": "4ce834b95f06c535",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 27",
+        "func": "var msg3Skr = global.get('tmpmax', \"file\");\nmsg.payload = msg3Skr;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2700,
+        "wires": [
+            [
+                "b4dccd848c9f6239"
+            ]
+        ]
+    },
+    {
+        "id": "b4dccd848c9f6239",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "TmpMax",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 25,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 2700,
+        "wires": [
+            [
+                "1d87fd73121b19ce"
+            ]
+        ]
+    },
+    {
+        "id": "43fa2d15e28d01f9",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 26",
+        "func": "var msg2Tmp = global.get('tmpmin', \"file\");\nmsg.payload = msg2Tmp;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2640,
+        "wires": [
+            [
+                "a2b4c26dd372575d"
+            ]
+        ]
+    },
+    {
+        "id": "a2b4c26dd372575d",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "TmpMin",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 23,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 420,
+        "y": 2640,
+        "wires": [
+            [
+                "312103e9d636edf1"
+            ]
+        ]
+    },
+    {
+        "id": "5614617816e5a02b",
+        "type": "link in",
+        "z": "b58fa6ad90650cac",
+        "name": "link in 19",
+        "links": [
+            "35c87027e687e9c0"
+        ],
+        "x": 95,
+        "y": 1420,
+        "wires": [
+            [
+                "f512527399610e3e",
+                "21d056230dc654ec",
+                "3a2c99c5eb540914"
+            ]
+        ]
+    },
+    {
+        "id": "bdf1e325ad1c11d7",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 22",
+        "func": "var msg2Alc = global.get('alcmin', \"file\");\nmsg.payload = msg2Alc;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 2160,
+        "wires": [
+            [
+                "3cb309d68e6c06d7"
+            ]
+        ]
+    },
+    {
+        "id": "3cb309d68e6c06d7",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "AlcMin",
+        "label": "",
+        "tooltip": "",
+        "group": "74708cc474d5caae",
+        "order": 3,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 410,
+        "y": 2160,
+        "wires": [
+            [
+                "d508286b0eb8bd8a"
+            ]
+        ]
+    },
+    {
+        "id": "d508286b0eb8bd8a",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 3",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('alcmin', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('alcmin', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "74cf3ef6061d98dc",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 4",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('alcmax', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('alcmax', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "05a5f1fa1e598a29",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 5",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('skrmin', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('skrmin', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 2280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "92d480396213b96d",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 6",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('skrmax', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('skrmax', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 2340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0228c2cf30d16b55",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 9",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('phmin', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('phmin', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 2400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9f3bd6bda44a3a49",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 10",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('phmax', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('phmax', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 2460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a9f77ed86c6c9ca4",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 11",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('gbdmin', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('gbdmin', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 2520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bf48041b7962fd1d",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 12",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('gbdmax', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('gbdmax', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 2580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "312103e9d636edf1",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 7",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('tmpmin', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('tmpmin', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 2640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1d87fd73121b19ce",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 8",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('tmpmax', inputnumber, \"file\");\n} \nelse \n{ \nglobal.set('tmpmax', inputnumber, \"file\");\n}\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 2700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c87a819ad11ffe93",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 38",
+        "func": "var refdelay = global.get('refdelay', \"file\");\nvar delay = global.get(\"msgdelay\", \"file\")\n\nif (refdelay != delay)\n{\n    global.set(\"refdelay\", delay, \"file\")\n    return {payload:delay};\n}\nelse\nreturn null",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 990,
+        "y": 1420,
+        "wires": [
+            [
+                "9cd134f1e642f5b7"
+            ]
+        ]
+    },
+    {
+        "id": "7e7c43f0a3f80acd",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "Verbinding",
+        "func": "var Verbinding = global.get('sensor', \"file\"); \n\nreturn { payload: Verbinding }",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 1160,
+        "wires": [
+            [
+                "38e67f4000e9e393"
+            ]
+        ]
+    },
+    {
+        "id": "38e67f4000e9e393",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 3,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Connectie:",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "15",
+        "color": "#ffffff",
+        "x": 610,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "bc6f3eca141ff7d4",
+        "type": "inject",
+        "z": "b58fa6ad90650cac",
+        "name": "",
+        "props": [],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "35c87027e687e9c0"
+            ]
+        ]
+    },
+    {
+        "id": "35c87027e687e9c0",
+        "type": "link out",
+        "z": "b58fa6ad90650cac",
+        "name": "Always active",
+        "mode": "link",
+        "links": [
+            "2243aab59277c914",
+            "5614617816e5a02b",
+            "dacb04a0d4a97225",
+            "6e11601058a1ada1",
+            "18f0137e11ea40d2",
+            "3011a519a371f560"
+        ],
+        "x": 225,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "f6e41885a911ed9a",
+        "type": "firebase-in",
+        "z": "b58fa6ad90650cac",
+        "name": "",
+        "constraint": {},
+        "database": "c74368c2056ed89a",
+        "listenerType": "value",
+        "outputType": "auto",
+        "path": "NRData/data",
+        "useConstraint": false,
+        "x": 150,
+        "y": 180,
+        "wires": [
+            [
+                "3e4ad28c5207f7d1"
+            ]
+        ]
+    },
+    {
+        "id": "a921331d8acfb751",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "b9cde1c22166b020",
+        "order": 16,
+        "width": 6,
+        "height": 1,
+        "name": "Empty",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 910,
+        "y": 1660,
+        "wires": []
+    },
+    {
+        "id": "3e4ad28c5207f7d1",
+        "type": "debug",
+        "z": "b58fa6ad90650cac",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 300,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "ee2c9510607024b5",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugeAlcMax",
+        "func": "var input = global.get('gaugeAlcMax', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 2960,
+        "wires": [
+            [
+                "8b2d3b6142409348"
+            ]
+        ]
+    },
+    {
+        "id": "8b2d3b6142409348",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugeAlcMax",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 5,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 500,
+        "y": 2960,
+        "wires": [
+            [
+                "d470acfaca9311eb"
+            ]
+        ]
+    },
+    {
+        "id": "244415a86cc45a21",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugeAlcMin",
+        "func": "var input = global.get('gaugeAlcMin', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 2920,
+        "wires": [
+            [
+                "e5fbd61531a5e559"
+            ]
+        ]
+    },
+    {
+        "id": "e5fbd61531a5e559",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugeAlcMin",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 3,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 490,
+        "y": 2920,
+        "wires": [
+            [
+                "0d0972a27eba2209"
+            ]
+        ]
+    },
+    {
+        "id": "0d0972a27eba2209",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 42",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) {\n    inputnumber = 0;\n    global.set('gaugeAlcMin', inputnumber, \"file\");\n    var input = inputnumber\n}\nelse if (inputnumber >= 0) {\n    global.set('gaugeAlcMin', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        min: input\n    }\n};\n\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 2920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d470acfaca9311eb",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 43",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('gaugeAlcMax', inputnumber, \"file\");\n    var input = inputnumber\n} \nelse if (inputnumber >= 0)\n{ \n    global.set('gaugeAlcMax', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        max: input\n    }\n};\n\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 2960,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9abbef3dae360347",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugeSkrMax",
+        "func": "var input = global.get('gaugeSkrMax', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 3100,
+        "wires": [
+            [
+                "35f1a2c714fa1faf"
+            ]
+        ]
+    },
+    {
+        "id": "35f1a2c714fa1faf",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugeSkrMax",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 10,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 500,
+        "y": 3100,
+        "wires": [
+            [
+                "5555f483a1a91783"
+            ]
+        ]
+    },
+    {
+        "id": "cb59b017dbebecbb",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugeSkrMin",
+        "func": "var input = global.get('gaugeSkrMin', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 3060,
+        "wires": [
+            [
+                "c924717ee6435dfd"
+            ]
+        ]
+    },
+    {
+        "id": "c924717ee6435dfd",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugeSkrMin",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 8,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 490,
+        "y": 3060,
+        "wires": [
+            [
+                "edacb625c76c8fb0"
+            ]
+        ]
+    },
+    {
+        "id": "edacb625c76c8fb0",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 44",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) {\n    inputnumber = 0;\n    global.set('gaugeSkrMin', inputnumber, \"file\");\n    var input = inputnumber\n}\nelse if (inputnumber >= 0) {\n    global.set('gaugeSkrMin', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        min: input\n    }\n};\n\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 3060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5555f483a1a91783",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 45",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('gaugeSkrMax', inputnumber, \"file\");\n    var input = inputnumber\n} \nelse if (inputnumber >= 0) \n{ \n    global.set('gaugeSkrMax', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        max: input\n    }\n};\n\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 3100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b9e871b7ae8428d4",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugepHMax",
+        "func": "var input = global.get('gaugepHMax', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 3240,
+        "wires": [
+            [
+                "7cf8b2a19941a520"
+            ]
+        ]
+    },
+    {
+        "id": "7cf8b2a19941a520",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugepHMax",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 15,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 490,
+        "y": 3240,
+        "wires": [
+            [
+                "0944751a79c295ef"
+            ]
+        ]
+    },
+    {
+        "id": "9a524459f2e409fc",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugepHMin",
+        "func": "var input = global.get('gaugepHMin', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 3200,
+        "wires": [
+            [
+                "d13ff92c39d78c95"
+            ]
+        ]
+    },
+    {
+        "id": "d13ff92c39d78c95",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugepHMin",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 13,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 490,
+        "y": 3200,
+        "wires": [
+            [
+                "3f9371697c7926d7"
+            ]
+        ]
+    },
+    {
+        "id": "3f9371697c7926d7",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 46",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) {\n    inputnumber = 0;\n    global.set('gaugepHMin', inputnumber, \"file\");\n    var input = inputnumber\n}\nelse if (inputnumber >= 0) {\n    global.set('gaugepHMin', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        min: input\n    }\n};\n\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 3200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0944751a79c295ef",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 47",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('gaugepHMax', inputnumber, \"file\");\n    var input = inputnumber\n} \nelse if (inputnumber >= 0) {\n    global.set('gaugepHMax', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        max: input\n    }\n};\n\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 3240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5f04bfe428d63933",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugegbdMax",
+        "func": "var input = global.get('gaugeGbdMax', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 3380,
+        "wires": [
+            [
+                "13290dbc060b1597"
+            ]
+        ]
+    },
+    {
+        "id": "13290dbc060b1597",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugegbdMax",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 20,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 500,
+        "y": 3380,
+        "wires": [
+            [
+                "e31505e35f42c3fb"
+            ]
+        ]
+    },
+    {
+        "id": "543d126daaeb8c19",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "set gaugegbdMin",
+        "func": "var input = global.get('gaugeGbdMin', \"file\");\nmsg.payload = input;\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 3340,
+        "wires": [
+            [
+                "923ce906401b73f7"
+            ]
+        ]
+    },
+    {
+        "id": "923ce906401b73f7",
+        "type": "ui_text_input",
+        "z": "b58fa6ad90650cac",
+        "name": "gaugegbdMin",
+        "label": "",
+        "tooltip": "",
+        "group": "55954b967190e3d0",
+        "order": 18,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": "1",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 500,
+        "y": 3340,
+        "wires": [
+            [
+                "adea7d15aad84c3a"
+            ]
+        ]
+    },
+    {
+        "id": "adea7d15aad84c3a",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 48",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) {\n    inputnumber = 0;\n    global.set('gaugeGbdMin', inputnumber, \"file\");\n    var input = inputnumber\n}\nelse if (inputnumber >= 0) {\n    global.set('gaugeGbdMin', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        min: input\n    }\n};\n\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 3340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e31505e35f42c3fb",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "function 49",
+        "func": "var inputnumber = msg.payload\nif (inputnumber < 0) \n{\n    inputnumber = 0;\n    global.set('gaugeGbdMax', inputnumber, \"file\");\n    var input = inputnumber\n} \nelse if (inputnumber >= 0) {\n    global.set('gaugeGbdMax', inputnumber, \"file\");\n    var input = inputnumber\n}\n\nmsg = {\n    ui_control: {\n        max: input\n    }\n};\n\nreturn msg\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 3380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "390daefb49c4cbb5",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "name": "alcGauge",
+        "label": "Alcohol",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 960,
+        "y": 2980,
+        "wires": []
+    },
+    {
+        "id": "c8451b49ae8cabb4",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 2940,
+        "wires": []
+    },
+    {
+        "id": "ef095563dd9fd672",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 14,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 2900,
+        "wires": []
+    },
+    {
+        "id": "7acd39a1f695b115",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 6,
+        "width": 6,
+        "height": 1,
+        "name": "skrGauge",
+        "label": "Suiker",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 960,
+        "y": 3120,
+        "wires": []
+    },
+    {
+        "id": "2ee4f894ed2f7f10",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 7,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 3080,
+        "wires": []
+    },
+    {
+        "id": "0fd3fcbfb7b83346",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 9,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 3040,
+        "wires": []
+    },
+    {
+        "id": "0d416c326cb18696",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 11,
+        "width": 6,
+        "height": 1,
+        "name": "pHGauge",
+        "label": "pH",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 960,
+        "y": 3260,
+        "wires": []
+    },
+    {
+        "id": "96b21f16a3b38641",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 19,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 3180,
+        "wires": []
+    },
+    {
+        "id": "2fe5146bc49d2b91",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 12,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 3220,
+        "wires": []
+    },
+    {
+        "id": "2d46f3dfdd444628",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 16,
+        "width": 6,
+        "height": 1,
+        "name": "gbdGauge",
+        "label": "Geleidbaarheid",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 970,
+        "y": 3400,
+        "wires": []
+    },
+    {
+        "id": "3f3e5f7cb9b924f8",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 17,
+        "width": 1,
+        "height": 1,
+        "name": "Min",
+        "label": "Min",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 3360,
+        "wires": []
+    },
+    {
+        "id": "d13c2b6e7067167b",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "Max",
+        "label": "Max",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "16",
+        "color": "#ffffff",
+        "x": 950,
+        "y": 3320,
+        "wires": []
+    },
+    {
+        "id": "6e11601058a1ada1",
+        "type": "link in",
+        "z": "b58fa6ad90650cac",
+        "name": "link in 28",
+        "links": [
+            "35c87027e687e9c0"
+        ],
+        "x": 115,
+        "y": 3140,
+        "wires": [
+            [
+                "9a524459f2e409fc",
+                "b9e871b7ae8428d4",
+                "9abbef3dae360347",
+                "cb59b017dbebecbb",
+                "ee2c9510607024b5",
+                "543d126daaeb8c19",
+                "244415a86cc45a21",
+                "5f04bfe428d63933"
+            ]
+        ]
+    },
+    {
+        "id": "18f0137e11ea40d2",
+        "type": "link in",
+        "z": "b58fa6ad90650cac",
+        "name": "link in 21",
+        "links": [
+            "35c87027e687e9c0"
+        ],
+        "x": 65,
+        "y": 660,
+        "wires": [
+            [
+                "445ae634194fe590"
+            ]
+        ]
+    },
+    {
+        "id": "445ae634194fe590",
+        "type": "trigger",
+        "z": "b58fa6ad90650cac",
+        "name": "",
+        "op1": "",
+        "op2": "",
+        "op1type": "pay",
+        "op2type": "nul",
+        "duration": "10",
+        "extend": false,
+        "overrideDelay": true,
+        "units": "s",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 170,
+        "y": 660,
+        "wires": [
+            [
+                "e7d2751343ae94eb",
+                "e6296d5385a40f4f",
+                "46d04c9b805707d2",
+                "c05f82a520fc5f73",
+                "ab64e4862eb4169b",
+                "7e7c43f0a3f80acd"
+            ]
+        ]
+    },
+    {
+        "id": "10e445d1209794d8",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "Datum",
+        "func": "/*var d = new Date();\nvar time = d.toLocaleTimeString();\n\nvar e = new Date();\nvar date = e.toLocaleDateString();\n*/\n\nvar d = new Date();\nvar time = d.toLocaleTimeString();\n\nvar e = new Date();\nvar date = e.toLocaleDateString();\n\nvar datetime = date +\"     \"+ time; \nreturn {payload: datetime};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 1220,
+        "wires": [
+            [
+                "16b76cc4fd7b7497"
+            ]
+        ]
+    },
+    {
+        "id": "16b76cc4fd7b7497",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 1,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Datum:",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "15",
+        "color": "#ffffff",
+        "x": 600,
+        "y": 1220,
+        "wires": []
+    },
+    {
+        "id": "3011a519a371f560",
+        "type": "link in",
+        "z": "b58fa6ad90650cac",
+        "name": "link in 29",
+        "links": [
+            "35c87027e687e9c0"
+        ],
+        "x": 275,
+        "y": 1240,
+        "wires": [
+            [
+                "10e445d1209794d8",
+                "d2385bd83d917ad4"
+            ]
+        ]
+    },
+    {
+        "id": "d2385bd83d917ad4",
+        "type": "function",
+        "z": "b58fa6ad90650cac",
+        "name": "Laatste connectie",
+        "func": "var connectie = global.get('connectie', \"file\");\nvar d = new Date();\nvar time = d.toLocaleTimeString();\n\nvar e = new Date();\nvar date = e.toLocaleDateString();\n\nvar datetime = date +\"     \"+ time; \n\nif (connectie == 0)\n{\n    return null;\n}\nelse if (connectie == 1)\n{\n    global.set('connectie', 0, \"file\"); \n    global.set('laatsteconnectie', datetime, \"file\");  \n}\n\nvar laatsteconnectie = global.get('laatsteconnectie', \"file\");  \n\nreturn {payload: laatsteconnectie};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 1260,
+        "wires": [
+            [
+                "0ec432b7938b7824"
+            ]
+        ]
+    },
+    {
+        "id": "0ec432b7938b7824",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "a6a27e034b64b8d6",
+        "order": 2,
+        "width": 5,
+        "height": 1,
+        "name": "",
+        "label": "Laatste:",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "15",
+        "color": "#ffffff",
+        "x": 600,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "2a4d27aeb82efd97",
+        "type": "ui_text",
+        "z": "b58fa6ad90650cac",
+        "group": "55954b967190e3d0",
+        "order": 22,
+        "width": 6,
+        "height": 1,
+        "name": "empty",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 950,
+        "y": 3440,
+        "wires": []
+    },
+    {
+        "id": "8934da68d11e97b6",
+        "type": "GSheet",
+        "z": "cad9b11d32f11f27",
+        "creds": "1e06661be3e1b19c",
+        "method": "append",
+        "action": "",
+        "sheet": "14Sp3m-dVl73O0x5oCM_Aje0axT2FkES9tNFxWYB6QM4",
+        "cells": "Blad1!A2:G100",
+        "flatten": false,
+        "name": "",
+        "x": 1030,
+        "y": 420,
+        "wires": [
+            [
+                "6089a9207538d063"
+            ]
+        ]
+    },
+    {
+        "id": "131a26f4ef1b26d9",
+        "type": "function",
+        "z": "cad9b11d32f11f27",
+        "name": "Data",
+        "func": "var d = new Date();\nvar time = d.toLocaleTimeString();\n\nvar e = new Date();\nvar date = e.toLocaleDateString();\n\nvar INPUT = msg.payload;\n\nvar alcval =  global.get('alcval', \"file\");    \nvar skrval = global.get('skrval', \"file\");\nvar tmpval = global.get(\"tmpval\", \"file\");\nvar phval = global.get(\"phval\", \"file\");\nvar gbdval = global.get(\"gbdval\", \"file\");\nvar sensor = global.get(\"sensor\", \"file\");\n\nvar n = [\n    [\n    date, \n    time, \n    alcval,\n    skrval,\n    gbdval,\n    phval,\n    tmpval,\n    sensor\n    ]\n];\n\nreturn { payload: n };\n\n/*\n    [\n    \"date\": date, \n    \"time\": time, \n    \"alcval\": global.get('alcval', \"file\"),\n    \"skrval\": global.get('skrval', \"file\"),\n    \"tmpval\": global.get(\"tmpval\", \"file\"),\n    \"phval\": global.get(\"phval\", \"file\"),\n    \"gbdval\": global.get(\"gbdval\", \"file\"),\n    \"sensor\": global.get(\"sensor\", \"file\")\n    ]\n*/",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 420,
+        "wires": [
+            [
+                "8934da68d11e97b6",
+                "e114f88d6bd4ceba"
+            ]
+        ]
+    },
+    {
+        "id": "8cb45ddbe19b4311",
+        "type": "function",
+        "z": "cad9b11d32f11f27",
+        "name": "Headers",
+        "func": "var hdate = \"Datum\";\nvar htime = \"Tijd\";\nvar hvalue1 = \"Alcohol\";\nvar hvalue2 = \"Suiker\";\nvar hvalue3 = \"Geleidbaarheid\";\nvar hvalue4 = \"pH\";\nvar hvalue5 = \"Temperatuur\";\nvar hvalue6 = \"Sensor\"\n\nvar header =\n[\n  [hdate, htime, hvalue1, hvalue2, hvalue3, hvalue4, hvalue5, hvalue6,]\n]\nreturn { payload:header};\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 360,
+        "wires": [
+            [
+                "e8d727a02b4f5585"
+            ]
+        ]
+    },
+    {
+        "id": "e8d727a02b4f5585",
+        "type": "GSheet",
+        "z": "cad9b11d32f11f27",
+        "creds": "1e06661be3e1b19c",
+        "method": "update",
+        "action": "",
+        "sheet": "14Sp3m-dVl73O0x5oCM_Aje0axT2FkES9tNFxWYB6QM4",
+        "cells": "Blad1!A1:I1",
+        "flatten": false,
+        "name": "",
+        "x": 1030,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6089a9207538d063",
+        "type": "debug",
+        "z": "cad9b11d32f11f27",
+        "name": "debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1190,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "5c7e5adb6f22abd1",
+        "type": "comment",
+        "z": "cad9b11d32f11f27",
+        "name": "",
+        "info": "https://docs.google.com/spreadsheets/d/14Sp3m-dVl73O0x5oCM_Aje0axT2FkES9tNFxWYB6QM4/export?format=xlsx&portrait=false&gridlines=false&size=b5\n\n\nInstellen datamonitor snbelheid\n\nSCADA achtig maken om het scalable te maken",
+        "x": 500,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "282aec52e06f0440",
+        "type": "open",
+        "z": "cad9b11d32f11f27",
+        "name": "",
+        "target": "https://docs.google.com/spreadsheets/d/14Sp3m-dVl73O0x5oCM_Aje0axT2FkES9tNFxWYB6QM4/export?format=xlsx&portrait=false&gridlines=false&size=b5",
+        "app": "",
+        "wait": false,
+        "urlencode": false,
+        "x": 350,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8212e21e2c931aa8",
+        "type": "ui_button",
+        "z": "cad9b11d32f11f27",
+        "name": "Excel",
+        "group": "a6a27e034b64b8d6",
+        "order": 14,
+        "width": 5,
+        "height": 1,
+        "passthru": true,
+        "label": "Write to excel",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 170,
+        "y": 260,
+        "wires": [
+            [
+                "282aec52e06f0440"
+            ]
+        ]
+    },
+    {
+        "id": "3919d27c49e8bd4a",
+        "type": "firebase-out",
+        "z": "cad9b11d32f11f27",
+        "name": "",
+        "database": "c74368c2056ed89a",
+        "path": "NRData/data",
+        "pathType": "str",
+        "priority": 1,
+        "queryType": "push",
+        "x": 1040,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "80c8fb0747737712",
+        "type": "firebase-in",
+        "z": "cad9b11d32f11f27",
+        "name": "",
+        "constraint": {},
+        "database": "c74368c2056ed89a",
+        "listenerType": "child_added",
+        "outputType": "auto",
+        "path": "NRData/data",
+        "useConstraint": false,
+        "x": 1290,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "11fe9d695db9fa6d",
+        "type": "mqtt in",
+        "z": "cad9b11d32f11f27",
+        "name": "MQTT In",
+        "topic": "mantispectra",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "a391904e017725dc",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 100,
+        "y": 440,
+        "wires": [
+            [
+                "b68de8962b37b75b",
+                "21b5b978c6aac0a4"
+            ]
+        ],
+        "outputLabels": [
+            "temperature"
+        ]
+    },
+    {
+        "id": "b68de8962b37b75b",
+        "type": "function",
+        "z": "cad9b11d32f11f27",
+        "name": "Data to Firesbase",
+        "func": "  var INPUT = msg.payload;\n\n  global.set(\"alcval\", INPUT.Alcohol, \"file\");\n  global.set('skrval', INPUT.Sugar, \"file\");\n  global.set('tmpval', INPUT.temperature, \"file\");\n  global.set('phval', INPUT.PH, \"file\");\n  global.set('gbdval', INPUT.EC, \"file\");\n  global.set('sensor', INPUT.sensor, \"file\");\n  global.set('connectie', 1, \"file\");\n\n  return msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 440,
+        "wires": [
+            [
+                "87292fabc4fdcf01",
+                "5400b9af8cd91181"
+            ]
+        ]
+    },
+    {
+        "id": "87292fabc4fdcf01",
+        "type": "function",
+        "z": "cad9b11d32f11f27",
+        "name": "Data to Firesbase",
+        "func": "var data = {\n    \"alcval\": global.get('alcval', \"file\"),\n    \"skrval\": global.get('skrval', \"file\"),\n    \"tmpval\": global.get(\"tmpval\", \"file\"),\n    \"phval\": global.get(\"phval\", \"file\"),\n    \"gbdval\": global.get(\"gbdval\", \"file\"),\n    \"sensor\": global.get(\"sensor\", \"file\")\n};\n\n// Return the payload as a JSON object\nreturn { payload: data };\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 520,
+        "wires": [
+            [
+                "3919d27c49e8bd4a"
+            ]
+        ]
+    },
+    {
+        "id": "5fd735f8c1579f59",
+        "type": "function",
+        "z": "cad9b11d32f11f27",
+        "name": "Data to Firesbase",
+        "func": "  global.set('alcval', Math.random(), \"file\");\n  global.set('skrval', 1, \"file\");\n  global.set('tmpval',1, \"file\");\n  global.set('phval', 1, \"file\");\n  global.set('gbdval', 1, \"file\");\n  global.set('sensor', 1, \"file\");\n\n  return msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1290,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e114f88d6bd4ceba",
+        "type": "debug",
+        "z": "cad9b11d32f11f27",
+        "name": "debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 990,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "1504b35b2d10dfdb",
+        "type": "link out",
+        "z": "cad9b11d32f11f27",
+        "name": "MQTT Signal",
+        "mode": "link",
+        "links": [
+            "1715332fbb96d547",
+            "64b8060e385c714d"
+        ],
+        "x": 1205,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "3f164a58998fa23b",
+        "type": "inject",
+        "z": "cad9b11d32f11f27",
+        "name": "Send",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1270,
+        "y": 280,
+        "wires": [
+            [
+                "f91b704389ce892c"
+            ]
+        ]
+    },
+    {
+        "id": "f91b704389ce892c",
+        "type": "function",
+        "z": "cad9b11d32f11f27",
+        "name": "Data to Firesbase",
+        "func": "  var INPUT = msg.payload;\n/*\n  global.set(\"alcval\", INPUT.Alcohol, \"file\");\n  global.set('skrval', INPUT.Sugar, \"file\");\n  global.set('tmpval', INPUT.temperature, \"file\");\n  global.set('phval', INPUT.PH, \"file\");\n  global.set('gbdval', INPUT.EC, \"file\");\n  global.set('sensor', INPUT.sensor, \"file\");\n*/  \n  global.set('connectie', 1, \"file\");",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1470,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "21b5b978c6aac0a4",
+        "type": "debug",
+        "z": "cad9b11d32f11f27",
+        "name": "debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 250,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "5400b9af8cd91181",
+        "type": "delay",
+        "z": "cad9b11d32f11f27",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "3",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "3",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 520,
+        "y": 360,
+        "wires": [
+            [
+                "131a26f4ef1b26d9",
+                "8cb45ddbe19b4311"
+            ]
+        ]
+    },
+    {
+        "id": "3ded7a361b9ccb27",
+        "type": "remote-access",
+        "z": "cad9b11d32f11f27",
+        "confignode": "7000e21dd340ab84",
+        "name": "",
+        "verbose": true,
+        "x": 120,
+        "y": 120,
+        "wires": [
+            [],
+            []
+        ]
+    }
+]
